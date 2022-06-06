@@ -1,0 +1,9 @@
+.button__icon {
+    border-radius: 50%;
+    transition: all 0.3s;
+}
+
+.button__icon:hover {
+    transition: all 0.3s;
+    transform: translateY(-6px);
+}
