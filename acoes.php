@@ -32,10 +32,6 @@ function listar () {
     include './telas/listar.php';
 }
 
-function relatorios() {
-    include './telas/relatorios.php';
-};
-
 function error404() {
     include './telas/404.php';
 }

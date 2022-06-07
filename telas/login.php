@@ -1,5 +1,5 @@
     <div class="container">
-        <div class="row justify-content-center g-5 mt-2">
+        <div class="row justify-content-center align-items-center g-5 mt-2">
         <div class="col-sm-4 col-md-8 text-center">
             <img class="img-fluid w-75" src="./telas/images/undraw.svg" alt="Desenho de um pessoa sentada em frente a um computador">
         </div>
@@ -36,7 +36,7 @@
 
                 </div>
             </div>
-            <div class="mt-3 p-2">
+            <!-- <div class="mt-3 p-2">
                 <p class="text-muted fs-5">
                     - Ou faça login com -
                 </p>
@@ -48,6 +48,6 @@
                     <a href="#" class="mr-2 display-4">
                         <i class='bx bxl-twitter button__icon' style='color:#2c77bb'></i></a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>

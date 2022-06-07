@@ -1,11 +1,11 @@
     <div class="container">
         <div class="row justify-content-center g-2 m-2 align-items-center">
-            <div class="col-sm-4 col-md-4">
+            <div class="col-sm-4 col-md-4 mt-2">
                 <div class="card">
                     <div class="card-header">
                         <h3 class="card-title mb-3 text-center">Cadastro</h3>
                         <p class="text-muted">
-                            Digite seus dados para fazer cadastro no sistema
+                            Digite os dados para incluir um novo contato
                         </p>
                     </div>
                     <div class="card-body mt-2">

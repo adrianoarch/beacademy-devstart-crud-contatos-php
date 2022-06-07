@@ -1,13 +1,13 @@
 <div class="container mt-4">
-<h1>Contatos Registrados</h1>
+<h1 class="text-secondary">Contatos Registrados</h1>
 
 <table class="table table-hover table-striped mt-3">
-    <thead class="table-dark">
+    <thead class="" style="background:#575A89">
         <tr>
-            <th class="">Nome</th>
-            <th class="">Email</th>
-            <th class="">Telefone</th>
-            <th class="text-center">Ações</th>
+            <th class="text-light">Nome</th>
+            <th class="text-light">Email</th>
+            <th class="text-light">Telefone</th>
+            <th class="text-light text-center">Ações</th>
         </tr>
     </thead>
     <tbody>
